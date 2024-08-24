@@ -9,8 +9,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://www.linkedin.com/in/devendra-kumar-45ab0b215/)" target="blank"><img align="center" src="(https://www.linkedin.com/in/devendra-kumar-45ab0b215/)" alt="linkedin" height="30" width="40" /></a>
-<a href="[(https://www.instagram.com/_dev._official/)]" target="blank"><img align="center" src="(https://www.instagram.com/_dev._official/)" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devendra-kumar-45ab0b215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_dev._official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

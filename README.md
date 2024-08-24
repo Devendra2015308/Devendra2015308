@@ -4,14 +4,13 @@
 <h3 align="center">Completed B.Tech in CSE (AIML) from Ajay Kumar Garg Engineering College, Ghaziabad</h3>
 <br><br>
 <p> 🌱 I’m currently working as a Web Developer at Systaldyn Consultancy Pvt Ltd</p>
-<p> ✨ AWS Certified Cloud Practitioner</p>
 <p> 📫 Reach out to me at <a href="mailto:devofficial2506@gmail.com">devofficial2506@gmail.com</a></p>
 <p> 💻 My primary coding languages: C++, Python</p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/devendra-kumar-45ab0b215/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="[(https://www.instagram.com/_dev._official/)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

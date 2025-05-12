@@ -5,7 +5,7 @@
 <br><br>
 <p> 🌱 I’m currently working as a Web Developer at Systaldyn Consultancy Pvt Ltd</p>
 <p> 📫 Reach out to me at <a href="mailto:devofficial2506@gmail.com">devofficial2506@gmail.com</a></p>
-<p> 💻 My primary coding languages: C++, Python</p>
+<p> 💻 My primary coding languages: JavaScript, C++, Python</p>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

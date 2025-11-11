@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [OniT Website](https://www.onit.services/)
 
-- 👨‍💻 All of my projects are available at [https://dev-portfolio-eight-theta.vercel.app/](https://dev-portfolio-eight-theta.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dev-portfolio-eight-theta.vercel.app/](https://devendra-portfolio-azure.vercel.app/)
 
 - 📫 How to reach me **devofficial2506@gmail.com**
 
